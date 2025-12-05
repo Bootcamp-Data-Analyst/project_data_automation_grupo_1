@@ -1,10 +1,3 @@
-Perfecto. Te dejo el README.md actualizado incluyendo:
-
-✔ Qué habéis hecho exactamente
-✔ Cómo lo habéis hecho (metodología, pasos, decisiones técnicas)
-✔ Trabajo en equipo explicado con Dani, Raúl y Alejandro
-✔ Todo integrado de forma elegante y profesional para entregar y subir a GitHub
-
 📦 Proyecto de Automatización
 MySQL → Python → CSV → Excel Dashboard
 
